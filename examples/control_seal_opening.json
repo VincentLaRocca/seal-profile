@@ -1,0 +1,10 @@
+{
+  "internal_xonly": "1a77fcde829eaa37fcf42f8eb6b21870001718ac83e950f8131786f467d5c342",
+  "cold_script": "20c17d0f5220c022aebe4fed923ad1888c1106f50a925ce2956837f6be0ea402e2ac",
+  "cold_leaf": "1f7828c859909a0e82833caeb18c83b9c0226a9dc95e75e041fe8b40e8d7416c",
+  "tapleaf": "f55feed0c23a33d42509929202b99ca4e347a0c3def532359007e0bdfb34e7b0",
+  "output_xonly": "e2ce3c401843498b22b1b429c3920ffbf56cb7faae1f8cc7b3cd1b359ef65f78",
+  "parity": 1,
+  "script_pubkey": "5120e2ce3c401843498b22b1b429c3920ffbf56cb7faae1f8cc7b3cd1b359ef65f78",
+  "control_block": "c11a77fcde829eaa37fcf42f8eb6b21870001718ac83e950f8131786f467d5c342"
+}
